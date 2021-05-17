@@ -97,7 +97,7 @@ Let us assume that your basic requirement is at a minimum to deliver content fro
 
 #### Level 1: Content Fragment Integration - Traditional Headless Model {#level-1}
 
-This level of integration is the traditional headless model and allows your content authors to create content in AEM and deliver it heedlessly to any number of external services using GraphQL or to edit them from external services using the Assets API. No coding is required in AEM.
+This level of integration is the traditional headless model and allows your content authors to create content in AEM and deliver it headlessly to any number of external services using GraphQL or to edit them from external services using the Assets API. No coding is required in AEM.
 
 In this model, AEM is only used for creating and serving the content through the use of AEM Content Fragments. Rendering and interaction with the content is delegated to the consuming external application, often a single-page application (SPA).
 
